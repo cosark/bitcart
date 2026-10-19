@@ -35,6 +35,10 @@ https://github.com/bitcart/bitcart-site - [Bitcart official site](https://bitcar
 
 Docs are available at https://docs.bitcart.ai or in our [docs repository](https://github.com/bitcart/bitcart-docs)
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Bitcart/)
+
 ## Contributing
 
 See [our contributing guidelines](https://github.com/bitcart/bitcart/blob/master/CONTRIBUTING.md) for details.
